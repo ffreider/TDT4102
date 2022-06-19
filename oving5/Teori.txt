@@ -1,0 +1,7 @@
+1 e:
+    Mere leselig og ryddigere.
+
+
+Spørsmål: 
+    Hva er forskjellen på static_cast<int> og int() ?
+    
