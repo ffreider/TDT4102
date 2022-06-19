@@ -1,0 +1,6 @@
+Hva er forskjellen på: int a = 0 og int a{0}?
+
+Skjønner ikke hvordan jeg kan gi mer minne til en array, får ikke plass til fler enn 47 fibonacci tall.
+
+Skal destruktøren være på bunnen av klassen?
+

@@ -1,0 +1,1 @@
+3a Når vi destruktøren blir kalt prøver den å slette samme minneadresse to ganger fordi ptr er kopiert, altså num.

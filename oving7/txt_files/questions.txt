@@ -1,0 +1,11 @@
+Hvilken rekkefølge burde public, protected og private være?
+
+Når jeg setter Animal.h til pure virtual får jeg error på testAnimal()
+
+Noen bedre måte å organisere filer?
+
+Hva er medlemsinitialiseringsliste?
+
+Hvordan gjøre øyenbrun på AngryFace tykkere?
+
+Hvordan lagre et element (for eksempel Line line;) også tegne det, for å så kunne slette det i en arvet klasse?

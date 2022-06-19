@@ -1,0 +1,1 @@
+3e med smart pointers blir det slettet automatisk

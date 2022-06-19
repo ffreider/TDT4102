@@ -1,0 +1,5 @@
+1a:
+    Hva er forskjellen på public, private og protected?
+        Public kan brukes av alle konstruerte objekter og det blir arvet. 
+        Protected kan ikke brukes av alle konstruerte objekter og det blir arvet. 
+        Private kan ikke brukes av alle konstruerte objekter og det blir ikke arvet. 
